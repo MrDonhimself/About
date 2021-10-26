@@ -2,7 +2,8 @@
 - 👀 I’m interested in Privacy & Security
 - 🌱 I’m currently learning CPP
 - 💞️ I’m looking to collaborate with Cypherpunk Enthusiast's trying to change the world!
-- 📫 How to reach me @PGP D89F 8B83 D852 A9B6 838A  A4B4 802B 592C 8A64 D283
+- 📫 How to reach me @ https://keybase.io/mrdonhimself 
+- @PGP D89F 8B83 D852 A9B6 838A  A4B4 802B 592C 8A64 D283
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
